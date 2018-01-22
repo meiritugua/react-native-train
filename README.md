@@ -1,5 +1,7 @@
 # React Native Training
 
+> 本开源书 forked from [React Native Training](https://github.com/unbug/react-native-train)，作者为 [unbug](https://github.com/unbug)，欢迎大家 star 原作者的 [repo](https://github.com/unbug/react-native-train)，以便获得最新更新，谢谢！
+
 ![](QQ20160705-3.png)
 
 The videos are here \([YouTube](https://www.youtube.com/playlist?list=PLC_rYRxEnwQGLQqrHR0aho33U6DCeJamC), [YouKu](http://v.youku.com/v_show/id_XMTYzODIxMDA2MA==.html?spm=a2hzp.8253876.0.0&f=27615900) \(中文\)!
